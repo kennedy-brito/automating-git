@@ -1,4 +1,4 @@
-
+cd <repository-path>
 echo adding files
 git add .
 
