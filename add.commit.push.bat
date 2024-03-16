@@ -7,3 +7,7 @@ git commit -m "notas de %DATE%"
 
 echo pushing
 git push
+
+echo done
+
+exit
